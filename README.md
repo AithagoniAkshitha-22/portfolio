@@ -21,7 +21,7 @@ The site highlights:
 ## Preview
 
 The portfolio is currently deployed at:
-- https://portfolio-ten-flax-26.vercel.app
+- https://portfolioaithagoniakshitha223.vercel.app
 
 ## Contact
 
